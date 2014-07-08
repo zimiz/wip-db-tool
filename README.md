@@ -1,4 +1,4 @@
-Design note [![Gitter chat](https://badges.gitter.im/zimiz/wip-db-tool.png)](https://gitter.im/zimiz/wip-db-tool)
+Design note [![Gitter chat](https://badges.gitter.im/zimiz/wip-db-tool.png)](https://gitter.im/zimiz/wip-db-tool) [![Build Status](https://drone.io/github.com/zimiz/wip-db-tool/status.png)](https://drone.io/github.com/zimiz/wip-db-tool/latest)
 =========
 
 Features (primary)
