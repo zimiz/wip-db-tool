@@ -14,15 +14,15 @@ Feature (secondary)
 --------
 backlogs
 
-- generate migration DDL
+- Generate migration DDL
 - SQL snippet
-- synchronize online
-- application code generate with template
-- testdata generate
-- plugable design
+- Synchronize online
+- Application code generate with template
+- Testdata generate
+- Plugable design
 - GH connector
 - Rest API
-- execute SQL
+- Execute SQL
 - DB container
 
 Development Enviroment
@@ -30,7 +30,7 @@ Development Enviroment
 wip
 
 - deployment:
-	- Docker
+    - Docker
 - frontend:
     - nodejs
     - es6
