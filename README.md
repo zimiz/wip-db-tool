@@ -1,4 +1,4 @@
-Design note
+Design note [![Gitter chat](https://badges.gitter.im/zimiz/wip-db-tool.png)](https://gitter.im/zimiz/wip-db-tool)
 =========
 
 Features (primary)
